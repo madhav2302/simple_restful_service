@@ -3,16 +3,16 @@ It is a simple restful service in GO lang which handle basic operations for a Us
 create, update and delete user.
 
 
-Installation: 
+### Installation: 
 1. Need [go lang installation](https://golang.org/dl/).
 1. Download mux package `go get -u github.com/gorilla/mux`
 
-Run application:
+### Run application:
 1. Go to `/src`
 1. Run command `go run main.go`
 1. It will run the server on `8001` port
 
-Examples:
+### Examples:
 
 1. Retrieve all users, endpoint - `/users` (method: GET)
  
